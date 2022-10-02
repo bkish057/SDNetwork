@@ -1,2 +1,2 @@
-# SDNetworking
+# SDNetwork
 Laboratory class project
