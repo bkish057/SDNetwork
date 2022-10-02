@@ -1,2 +1,0 @@
-# SDNetwork
-Laboratory class project
